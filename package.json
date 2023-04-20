@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "souyummy-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/react-homework-template/",
+  "homepage": "https://Tsymbaliuk-Oleksandr.github.io/souyummy-frontend/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
