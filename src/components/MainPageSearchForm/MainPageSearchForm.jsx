@@ -21,7 +21,7 @@ export const MainPageSearchForm = ({ keyword }) => {
       });
       return;
     }
-    window.location.href = `/soyummy-frontend/search?query=${rKeyword}`;
+    window.location.href = `/soyummy/search?query=${rKeyword}`;
   };
 
   const handleInputChange = (event) => {

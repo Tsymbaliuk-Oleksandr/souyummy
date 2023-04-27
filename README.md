@@ -2,7 +2,7 @@
 
 🍏 WELCOME TO SOYUMMY 🍏
 
-[Посилання на живу сторінку...](https://Tsymbaliuk-Oleksandr.github.io/soyummy-frontend/)
+[Посилання на живу сторінку...](https://Tsymbaliuk-Oleksandr.github.io/soyummy/)
 
 Посилання на:
 [SWAGGER](https://souyummy-backend.onrender.com/api-docs)
