@@ -8,7 +8,7 @@
 [SWAGGER](https://souyummy-backend.onrender.com/api-docs)
 
 Посиланная на:
-[BACK-END](https://github.com/Tsymbaliuk-Oleksandr/souyummy_backend)
+[BACK-END](https://github.com/Tsymbaliuk-Oleksandr/backend_souyummy)
 
 ## Про проект:
 
